@@ -1,0 +1,25 @@
+					*Fotinha bem bonitinha*
+					José Ronald da Silva
+					jrs8@cin.ufpe.br
+
+			Instagram	GitHub	Lattes	LinkedIn (agora tenho felizmente)	
+
+
+Sobre mim
+	Hello World!
+		Oi! Me chamo Ronald, tenho 18 anos e sou apaixonado por tecnologia, pois é só por meio dela que um dia os
+		humanos vão parar de trabalhar e passar o dia todo vendo Netflix. Atualmente faço o 1º período de 
+		Ciência da Computação na Universidade Federal de Pernambuco (UFPE), e minha maior motivação de estar no
+		curso é um dia poder desenvolver um software que impacte de forma positiva minha comunidade (ou o
+		mundo!).
+		No meu tempo livre, gosto de me exercitar, irritar minha cachorrinha, cozinhar, pesquisar receitas que nunca
+		vou fazer, estudar línguas estrangeiras, dormir até tarde e assistir animes.
+
+FORMAÇÃO ACADÊMICA
+	Bacharelado em Ciência da Computação na Universidade Federal de Pernambuco (1º período)
+	Técnico em Edificações no Instituto Federal de Pernambuco - campus Recife (Concluído)
+
+PRÊMIOS E CERTIFICAÇÕES
+	Medalha de ouro na Olimpíada Brasileira de Astronomia (OBA) x2
+	Menção honrosa na Olimpíada Brasileira de Matemática (OBMEP)
+	Medalha de bronze na Olimpíada Pernambucana de Astronomia (OPA)
